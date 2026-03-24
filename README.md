@@ -27,17 +27,17 @@ The goal is to understand product performance, pricing patterns, discounts, and 
 
 ## 📁 Project Structure
 
+```
 Product-Data-Analysis/
-│
 ├── Data/                # Dataset files
 ├── Src/
 │   ├── Pipeline.py      # Main pipeline logic
 │   ├── Graphs/          # Visualization functions
 │   ├── Graph_List.py    # List of all graphs
 │   └── Utils/           # Helper functions
-│
 ├── main.py              # Entry point
 └── README.md
+```
 
 
 ---
